@@ -1,0 +1,52 @@
+
+.colored-section{
+  background-color: #be9fe1
+;
+;
+  font-family: Quicksand
+}
+.indiitem{
+  font-family: Quicksand;
+  color: #f1f1f6
+;
+
+}
+
+.brandboi{
+  color: #f1f1f6
+;
+  height: 1.2;
+  font-family: Arbutus;
+
+}
+
+.nav-item:hover{
+  color:black;
+
+  text-decoration: underline;
+}
+.big-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding: 7% 10%;
+  text-align: left;
+  color: #f1f1f6;
+
+}
+.container-fluid{
+  padding: 3% 15%
+}
+.butt{
+  padding: 20px;
+  margin:  20% auto auto;
+  font-family:Quicksand;
+
+}
+
+#be9fe1
+
+#c9b6e4
+
+#e1ccec
+
+#f1f1f6

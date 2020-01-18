@@ -1,0 +1,42 @@
+
+.nav-link[data-toggle].collapsed:after {
+    content: "▾";
+}
+.nav-link[data-toggle]:not(.collapsed):after {
+    content: "▴";
+}
+body{
+  padding: 0
+}
+.vertical-nav{
+  padding: 10px;
+
+  background-color: #be9fe1;
+  text-decoration-color: #f1f1f6;
+
+}
+.brandboi{
+  color: #f1f1f6
+;
+
+height: 1.2;
+  font-family: Arbutus;
+
+}
+.nav{
+  text-align: left;
+}
+.nav-item{
+  padding: 2%
+}
+.changefont{
+  font-family: Quicksand;
+}
+.addmar
+#be9fe1
+
+#c9b6e4
+
+#e1ccec
+
+#f1f1f6
